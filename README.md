@@ -8,5 +8,6 @@ This project help me understand and how to cancel a request in reactjs by AbortC
 
 ## Step
 
-- Create a new Project: 🚀
-- Update Project structure:🚀
+- 14/10 Create a new Project: 🚀
+- 14/10 Update Project structure:🚀
+- 15/10 Practice map function have condition
