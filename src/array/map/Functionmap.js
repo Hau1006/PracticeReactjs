@@ -23,8 +23,8 @@ const Functionmap = () => {
     };
   });
 
-  console.log(newsProduct);
-  console.log(newsProduct2);
+  // console.log(newsProduct);
+  // console.log(newsProduct2);
 
   return <div>functionmap</div>;
 };
