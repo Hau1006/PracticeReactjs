@@ -10,4 +10,8 @@ This project help me understand and how to cancel a request in reactjs by AbortC
 
 - 14/10 Create a new Project: 🚀
 - 14/10 Update Project structure:🚀
-- 15/10 Practice map function have condition
+- 15/10 Practice map function have condition:🚀
+- 17/10
+
+* Practice Object function => check Key,value: 🚀
+* Add Image GIT: 🚀
